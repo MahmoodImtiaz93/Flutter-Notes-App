@@ -1,11 +1,11 @@
  Home Screen               |  Add Notes 
 :-------------------------:|:-------------------------:
-![](Images/home.png)       |  ![](Images/Add Notes.png)
+![](Images/home.png)       |  ![](Images/AddNotes.png)
 
  Home screen with notes    |  Updates Notes
 :-------------------------:|:-------------------------:
-![](Images/Homenotes.png)  | ![](Images/Update Note.png)
+![](Images/Homenotes.png)  | ![](Images/UpdateNote.png)
 
  Delete Note               |  Search Notes          
 :-------------------------:|:-------------------------:
-![](Images/Delete Note.png)| ![](Images/Search note.png)
+![](Images/DeleteNote.png)| ![](Images/Searchnote.png)
