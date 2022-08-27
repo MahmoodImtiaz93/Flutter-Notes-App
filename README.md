@@ -1,1 +1,11 @@
-<img src="https://github.com/MahmoodImtiaz93/Flutter-Notes-App/blob/main/Images/Add%20Notes.png" width="100">
+ Home Screen               |  Add Notes 
+:-------------------------:|:-------------------------:
+![](Images/home.png)       |  ![](Images/Add Notes.png)
+
+ Home screen with notes    |  Updates Notes
+:-------------------------:|:-------------------------:
+![](Images/Homenotes.png)  | ![](Images/Update Note.png)
+
+ Delete Note               |  Search Notes          
+:-------------------------:|:-------------------------:
+![](Images/Delete Note.png)| ![](Images/Search note.png)
